@@ -17,5 +17,7 @@
 
   https://www.facebook.com/kremena.milusheva.3
     
-   ✉️   kremena.pashova@yahoo.com
+🔗Languages and Technologies
+
+    C#, Javascript
 
