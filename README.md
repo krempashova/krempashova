@@ -13,9 +13,9 @@
   
 🔗 You can reach me at:
 
-  linkedin: https://www.linkedin.com/in/kremena-pashova-9625a416b/
+  https://www.linkedin.com/in/kremena-pashova-9625a416b/
 
-   https://www.facebook.com/kremena.milusheva.3
+  https://www.facebook.com/kremena.milusheva.3
     
    ✉️   kremena.pashova@yahoo.com
 
