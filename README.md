@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Kremena Pashova</h1>
 <h3 align="center">I am a telecommunications engineer, graduated from Varna Technical University. My expertise lies in writing code in C#. I love working on projects that challenge me to innovate and problem-solve. I learning C# at Software University SoftUni, and almost finish the program for Software Engineering in SoftUni</h3>
 
+![CodingGIF](https://github.com/krempashova/krempashova/assets/114221247/580b4ed4-8ef7-49f7-a031-364df5c61262)
+![ExpoGIF](https://github.com/krempashova/krempashova/assets/114221247/27d0e376-14d2-48d1-96e7-7daee2d6bb23)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krempashova&label=Profile%20views&color=0e75b6&style=flat" alt="krempashova" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krempashova" alt="krempashova" /></a> </p>
@@ -10,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krempashova](https://github.com/krempashova)
 
-- 📫 How to reach me **kremena.pashova@yahoo.com**
+- 📫 How to reach me✉️ **kremena.pashova@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,27 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krempashova&" alt="krempashova" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
+
