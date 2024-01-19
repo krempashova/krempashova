@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kremena Pashova</h1>
 <h3 align="center">I am a telecommunications engineer, graduated from Technical University Varna. My expertise lies in writing code in C#. I love working on projects that challenge me to innovate and problem-solve. I learning C# at Software University SoftUni, and almost finish the program for Software Engineering in SoftUni</h3>
 
-                                  ![CodingGIF](https://github.com/krempashova/krempashova/assets/114221247/cfd3f079-db2a-480b-9f6f-a03d9c70f4d4)
+   ![CodingGIF](https://github.com/krempashova/krempashova/assets/114221247/cfd3f079-db2a-480b-9f6f-a03d9c70f4d4)
 
 <h3 align="center">You can reach me at:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/Kremena Pashova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kremena Pashova" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kremena-pashova-9625a416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kremena-pashova-9625a416b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23269261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23269261" height="30" width="40" /></a>
 <a href="https://fb.com/kremucana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kremucana" height="30" width="40" /></a>
 <a href="https://instagram.com/kremena pashova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kremena pashova" height="30" width="40" /></a>
