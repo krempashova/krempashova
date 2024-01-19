@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **C# development in Software University SoftUni**
 
-- 📫 How to reach me✉️ **kremena.pashova@yahoo.com**
+- 📫 How to reach me
+-  ✉️ **kremena.pashova@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
