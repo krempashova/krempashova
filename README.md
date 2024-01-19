@@ -5,9 +5,9 @@
 
 <h3 align="center">You can reach me at:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kremena-pashova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kremena pashova" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kremena Pashova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kremena Pashova" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23269261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23269261" height="30" width="40" /></a>
-<a href="https://fb.com/kremena pashova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kremena pashova" height="30" width="40" /></a>
+<a href="https://fb.com/kremucana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kremucana" height="30" width="40" /></a>
 <a href="https://instagram.com/kremena pashova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kremena pashova" height="30" width="40" /></a>
 </p>
 
