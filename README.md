@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kremena Pashova</h1>
 <h3 align="center">I am a telecommunications engineer, graduated from Technical University Varna. My expertise lies in writing code in C#. I love working on projects that challenge me to innovate and problem-solve. I learning C# at Software University SoftUni, and almost finish the program for Software Engineering in SoftUni</h3>
 
-![VisualStudioCodeVsCodeGIF](https://github.com/krempashova/krempashova/assets/114221247/3912644d-f347-41fe-9d32-df175f187832)
 ![CodingGIF](https://github.com/krempashova/krempashova/assets/114221247/cfd3f079-db2a-480b-9f6f-a03d9c70f4d4)
 
 <h3 align="center">You can reach me at:</h3>
